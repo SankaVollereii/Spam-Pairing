@@ -53,9 +53,6 @@ node spam.js
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketapangcyberteam&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketapangcyberteam&show_icons=true&locale=en&layout=compact" alt="ketapangcyberteam" /></p>
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ketapangcyberteam&show_icons=true&theme=synthwave" alt="ketapangcyberteam :: Profile Stats" /></p>
