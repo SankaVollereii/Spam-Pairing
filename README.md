@@ -19,6 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 
+<p align="left">
+<a href="https://instagram.com/ketapang_cyber_team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketapang_cyber_team" height="30" width="40" /></a>
+</p>
+
+
 ## Installation
 
 ### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
@@ -43,10 +48,6 @@ python3 bahan.py
 ```bash
 node spam.js
 ```
-
-<p align="left">
-<a href="https://instagram.com/ketapang_cyber_team" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketapang_cyber_team" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"></code>
