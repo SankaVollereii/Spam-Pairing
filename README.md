@@ -64,9 +64,13 @@ node spam.js
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"></code>
 
+<br>
+
 <a href="https://github.com/ketapangcyberteam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketapangcyberteam&theme=radical&hide=glsl,python" />
 </a>
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ketapangcyberteam&&show_icons=true&theme=radical&line_height=27&v=5" alt="ketapangcyberteam GitHub Stats" />
 
@@ -74,4 +78,5 @@ node spam.js
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KetapangCyberTeam&repo=Spam-Pairing&theme=radical" />
 </a>
 
+<br>
 ⭐️ From [KetapangCyberTeam](https://github.com/KetapangCyberTeam)
